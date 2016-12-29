@@ -1,0 +1,5 @@
+{
+  "event": "SIGCAP_CANCEL",
+  "data": "{\"serviceNamespace\": \"SERVICE BUS NAMESPACE \",\"topic\": \"PUB SUB TOPIC\",\"correlationId\": \"MUST BE INCLUDED IN HTTP HEADER\",\"token\": \"ACCESS TOKEN INCLUDED IN SERVICE BUS AUTHORIZATION HEADER\",\"displayContent \": \"TEXT CONTENT TO BE DISPLAYED FOR SIG CAP\" }"
+
+}
